@@ -1,0 +1,1 @@
+export const NEXT_PUBLIC_REALTIME_API_URL='http://192.168.115.98:2023';
